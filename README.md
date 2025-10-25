@@ -6,4 +6,5 @@
 Simple Client-Side Fabric mod which plays funny croaking sound every time you press russian [к в а] or english [c r o a k] keys.
 
 # 📹 Video Showcase
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V_Lxt-LhR0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://github.com/user-attachments/assets/f7231174-5188-4edd-955a-b89e66fa5d88
