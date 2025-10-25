@@ -1,0 +1,17 @@
+{
+	"kvakva": {
+		"sounds": [
+			"kvakva:kva1",
+			"kvakva:kva2",
+			"kvakva:kva3",
+			"kvakva:kva4",
+			"kvakva:kva5"
+		]
+	},
+	"kvakva_peaceful": {
+		"sounds": [
+			"kvakva:kva2",
+			"kvakva:kva3"
+		]
+	}
+}

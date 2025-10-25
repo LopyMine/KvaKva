@@ -1,4 +1,4 @@
-package net.lopymine.mossy;
+package net.lopymine.kvakva;
 
 import net.lopymine.mossylib.logger.MossyLogger;
 import net.minecraft.text.*;
@@ -6,12 +6,12 @@ import net.minecraft.util.Identifier;
 
 import net.fabricmc.api.ModInitializer;
 
-public class Mossy implements ModInitializer {
+public class KvaKva implements ModInitializer {
 
-	public static final String MOD_NAME = /*$ mod_name*/ "Mossy";
-	public static final String MOD_ID = /*$ mod_id*/ "mossy";
+	public static final String MOD_NAME = /*$ mod_name*/ "KvaKva";
+	public static final String MOD_ID = /*$ mod_id*/ "kvakva";
 
-	public static MossyLogger LOGGER = new MossyLogger(Mossy.MOD_NAME);
+	public static MossyLogger LOGGER = new MossyLogger(KvaKva.MOD_NAME);
 
 	public static Identifier id(String path) {
 		return Identifier.of(MOD_ID, path);

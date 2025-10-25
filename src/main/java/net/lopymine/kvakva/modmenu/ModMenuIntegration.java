@@ -1,6 +1,6 @@
-package net.lopymine.mossy.modmenu;
+package net.lopymine.kvakva.modmenu;
 
-import net.lopymine.mossy.yacl.YACLConfigurationScreen;
+import net.lopymine.kvakva.yacl.YACLConfigurationScreen;
 import net.lopymine.mossylib.MossyLib;
 import net.lopymine.mossylib.modmenu.AbstractModMenuIntegration;
 import net.minecraft.client.gui.screen.Screen;

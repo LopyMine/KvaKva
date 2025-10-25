@@ -16,13 +16,13 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "net.lopymine.mossy.Mossy"
+	        "net.lopymine.kvakva.KvaKva"
         ],
         "client": [
-            "net.lopymine.mossy.client.MossyClient"
+	        "net.lopymine.kvakva.client.KvaKvaClient"
         ],
         "modmenu": [
-            "net.lopymine.mossy.modmenu.ModMenuIntegration"
+	        "net.lopymine.kvakva.modmenu.ModMenuIntegration"
         ]
     },
     "depends": {

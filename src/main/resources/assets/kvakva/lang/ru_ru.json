@@ -1,0 +1,21 @@
+{
+	"modmenu.descriptionTranslation.${mod_id}": "Шаблонный Fabric мод с несколькими дополнительными фишками для моих проектов.",
+	"${mod_id}.modmenu.title": "§lКонфигурация ${mod_name}",
+
+	"${mod_id}.modmenu.category.general.name": "Основное",
+
+	"${mod_id}.modmenu.group.main.name": "Главное",
+	"${mod_id}.modmenu.group.main.description": "Главные настройки",
+
+	"${mod_id}.modmenu.option.mod_enabled.name": "Включить мод",
+	"${mod_id}.modmenu.option.mod_enabled.description": "Если мод включён, он будет воспроизводить звуки кваканья лягушки всякий раз когда вы нажимаете особую последовательность клавиш.",
+
+	"${mod_id}.modmenu.option.russian_variants_enabled.name": "Поддержка русских вариантов",
+	"${mod_id}.modmenu.option.russian_variants_enabled.description": "Если включена, мод будет воспроизводить звук при нажатии клавиш [к в а].",
+
+	"${mod_id}.modmenu.option.english_variants_enabled.name": "Поддержка английский вариантов",
+	"${mod_id}.modmenu.option.english_variants_enabled.description": "Если включена, мод будет воспроизводить звук при нажатии клавиш [k v a] или [c r o a k].",
+
+	"${mod_id}.modmenu.option.peaceful_mode.name": "\"Ни одна лягушка не пострадала\"",
+	"${mod_id}.modmenu.option.peaceful_mode.description": "Отключить некоторые пугающие звуки кваканья."
+}

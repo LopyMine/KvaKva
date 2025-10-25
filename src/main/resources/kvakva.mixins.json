@@ -1,12 +1,13 @@
 {
 	"required": true,
-	"package": "net.lopymine.mossy.mixin",
+	"package": "net.lopymine.kvakva.mixin",
 	"refmap": "${mod_id}.refmap.json",
 	"compatibilityLevel": "JAVA_${java}",
 	"mixins": [
 	],
 	"client": [
-		"ExampleMixin"
+		"SoundManagerMixin",
+		"KeyboardMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

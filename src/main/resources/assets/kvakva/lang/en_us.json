@@ -1,0 +1,21 @@
+{
+	"modmenu.descriptionTranslation.${mod_id}": "${mod_description}",
+	"${mod_id}.modmenu.title": "§l${mod_name} Configuration",
+
+	"${mod_id}.modmenu.category.general.name": "General",
+
+	"${mod_id}.modmenu.group.main.name": "Main",
+	"${mod_id}.modmenu.group.main.description": "Main Settings",
+
+	"${mod_id}.modmenu.option.mod_enabled.name": "Mod Enabled",
+	"${mod_id}.modmenu.option.mod_enabled.description": "If the mod is enabled, it will play a frog croaking sounds whenever you press special keys.",
+
+	"${mod_id}.modmenu.option.russian_variants_enabled.name": "Russian Variants Enabled",
+	"${mod_id}.modmenu.option.russian_variants_enabled.description": "If enabled, the mod will play croaking sounds when you type [к в а].",
+
+	"${mod_id}.modmenu.option.english_variants_enabled.name": "English Variants Enabled",
+	"${mod_id}.modmenu.option.english_variants_enabled.description": "If enabled, the mod will play croaking sounds when you type [k v a] or [c r o a k].",
+
+	"${mod_id}.modmenu.option.peaceful_mode.name": "Peaceful Mode",
+	"${mod_id}.modmenu.option.peaceful_mode.description": "Disable some scary croaking sounds."
+}
